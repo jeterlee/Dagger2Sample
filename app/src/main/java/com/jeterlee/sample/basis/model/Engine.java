@@ -2,7 +2,7 @@ package com.jeterlee.sample.basis.model;
 
 import android.util.Log;
 
-import com.jeterlee.sample.basis.Config;
+import com.jeterlee.sample.Config;
 
 /**
  * 发动机
