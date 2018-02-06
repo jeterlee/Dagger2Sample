@@ -1,7 +1,7 @@
 ## Dagger2Sample
 项目说明：Dagger2的基本使用，在MVP中的使用方法，以及注意事项。
 
-(Dagger2參考資料)[https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4/dagger2.md]
+[Dagger2參考資料](https://github.com/jeterlee/android-dev-note/blob/master/document/chapter4/dagger2.md)
 
 
 ## License
