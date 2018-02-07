@@ -16,6 +16,9 @@ public class MultiConstruct {
         com.jeterlee.sample.advanced.di.components.MainFragmentComponent.inject(mainFragment)
     * */
 
+    // 构造函数被标记@Inject，自动初始化MultiConstruct构造函数，因此即使在Module中不提供MultiConstruct对象
+    // 也不会报错，此种方式适合自己创建的类，第三方库，工具类不要这样使用。
+
     @Inject
     MultiConstruct() {
     }

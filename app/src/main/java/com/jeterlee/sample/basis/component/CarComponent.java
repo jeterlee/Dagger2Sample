@@ -6,13 +6,16 @@ import com.jeterlee.sample.basis.module.CarModule;
 import dagger.Component;
 
 /**
- * 桥梁（连接@Inject和@Module，里面存在着依赖提供者和依赖需求者）
- * 本例中连接Module和你的Car。
- * '@Component - 这个注解只能用于接口或抽象类。
- *
- * @author jeterlee
- * @date 2017/12/11 0011
- * @email xqlee120@yeah.net
+ * <pre>
+ *     desc: 桥梁
+ *     email: xqlee120@yeah.net
+ *     date: 2018/2/6 0006
+ *     @author jeterlee
+ * </pre><pre>
+ *     桥梁（连接@Inject和@Module，里面存在着依赖提供者和依赖需求者）
+ *     本例中连接Module和你的Car。
+ *     '@Component - 这个注解只能用于接口或抽象类。
+ * </pre>
  */
 @Component(modules = CarModule.class)
 public interface CarComponent {

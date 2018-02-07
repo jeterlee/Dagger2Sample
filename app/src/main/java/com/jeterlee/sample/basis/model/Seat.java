@@ -5,11 +5,12 @@ import android.util.Log;
 import com.jeterlee.sample.Config;
 
 /**
- * 车座
- *
- * @author jeterlee
- * @date 2017/12/11 0011
- * @email xqlee120@yeah.net
+ * <pre>
+ *     desc: 车座
+ *     email: xqlee120@yeah.net
+ *     date: 2018/2/6 0006
+ *     @author jeterlee
+ * </pre>
  */
 public class Seat {
 

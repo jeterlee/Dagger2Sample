@@ -15,7 +15,7 @@ import dagger.Provides;
  *
  * @author jeterlee
  * @date 2017/12/11 0011
- * @email xqlee120@yeah.net
+ * email: xqlee120@yeah.net
  */
 @Module
 public class CarModule {
